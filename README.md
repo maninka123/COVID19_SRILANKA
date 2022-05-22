@@ -1,4 +1,4 @@
-# COVID 19 FORECAST MODEL WITH BOTH RESTRICTED AND UNRESTRICTED CONDITIONS
+# COVID 19 SPREAD FORECAST MODEL WITH BOTH RESTRICTED AND UNRESTRICTED CONDITIONS
 
 The primary aim of this project is to make a reliable perdition model to
 forecast the COVID-19 spread in the Sri Lankan populations and is to
