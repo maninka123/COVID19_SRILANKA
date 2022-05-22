@@ -1,4 +1,4 @@
-# COVID 19 SPREAD FORECAST MODEL IN BOTH RESTRICTED AND UNRESTRICTED CONDITIONS
+# COVID-19 OUTBREAK PREDICTOR (CONSIDERED BOTH UNRESTRICTED AND ISLAND-WIDE LOCKDOWN CONDITIONS)
 
 The primary aim of this project is to make a reliable perdition model to
 forecast the COVID-19 spread in the Sri Lankan populations and is to
